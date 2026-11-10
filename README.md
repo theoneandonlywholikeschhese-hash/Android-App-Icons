@@ -8,8 +8,6 @@ PNG launcher icons from the system apps of the Android-x86 1.6 and 1.6.1 live CD
 
 28 PNG files, one per launchable app, named after the app's label (for example `Calendar.png`, `Dialer.png`, `Snake on a Phone.png`). Most are 48×48 px, a few are 36, 64, or other sizes, depending on what each app shipped.
 
-Apps included: Alarm Clock, AndAppStore, Browser, Calendar, Camera, ConnectBot, Contacts, Dev Tools, Dialer, Email, Global Time, Google Search, Home, JetBoy, LIME, Lunar Lander, Messaging, Music, Note Pad, OI File Manager, Pinyin IME, RSS Reader, RockOn, Settings, Snake on a Phone, Sound Recorder, Spare Parts, Terminal Emulator.
-
 ## How they were extracted
 
 1. Read the ISO's `system.sfs` (SquashFS), which contains `system.img` (ext2).
